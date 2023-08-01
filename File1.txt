@@ -1,1 +1,7 @@
 Hello Git
+
+Never store passwords
+
+Never store API credentials
+
+Never store Credit cards
